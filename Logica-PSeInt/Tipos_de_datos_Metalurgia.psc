@@ -17,14 +17,11 @@ Algoritmo Tipos_de_datos_Metalurgia
 	    // ---------------------------------------------------------
 	    // 1. LA VARIABLE (ID_Junta): Es el identificador único o "DNI" de la soldadura.
 	    //    Es la clave para el control de calidad.
-	    //
 	    // 2. LA ASIGNACIÓN (<-): Representa el acto de REGISTRAR en el sistema que la inspección actual
         //    corresponde a la pieza 101.
-	    //
 	    // 3. EL VALOR (101): Es el dato extraido del "Wel Map" (Plano).
 	    //    Al digitalizarlo, el Supervisor puede generar reportes automáticos y rastrear al soldador
 	    //    o el lote de material.
-	    //
 	    // --------
 	    // UTILIDAD
 	    // --------
