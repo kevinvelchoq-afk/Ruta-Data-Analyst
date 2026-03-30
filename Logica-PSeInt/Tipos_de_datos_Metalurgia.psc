@@ -66,12 +66,4 @@ Algoritmo Tipos_de_datos_Metalurgia
 	
 FinAlgoritmo
 
-// =============================================================
-// REPASO:
-// 1. Un error común es guardar el Amperaje como Texto "125".
-//    Si haces eso, no podrás calcular el Calor Aportado (Heat Input).
-// 2. En metalurgia, los datos REALES son los reyes; los decimales 
-//    determinan si una aleación cumple con la norma o no.
-// =============================================================
-
 	
